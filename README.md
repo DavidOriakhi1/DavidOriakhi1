@@ -8,8 +8,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/davidoriakhi1/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/davidoriakhi1/ticket-lifecycle)
 - <b>Proton VPN</b>
-   - Installing and connecting proton vpn
-  
+   - Protonvpn:  [Proton vpn installation and connection](https://github.com/DavidOriakhi1/Instal-proton-vpn.git)  
 <h2>🤳Connect with me:</h2>
 
 [<img align="left" alt="Josh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
